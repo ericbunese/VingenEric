@@ -24,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CEB738282088359D006F5079 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CEB738292088366E006F5079 /* vingeneric.pages */ = {isa = PBXFileReference; lastKnownFileType = file; path = vingeneric.pages; sourceTree = "<group>"; };
 		CECB5313208803590016714C /* vingeneric */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = vingeneric; sourceTree = BUILT_PRODUCTS_DIR; };
 		CECB5316208803590016714C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CECB531D20880A340016714C /* vingenere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vingenere.swift; sourceTree = "<group>"; };
@@ -43,6 +45,8 @@
 		CECB530A208803590016714C = {
 			isa = PBXGroup;
 			children = (
+				CEB738292088366E006F5079 /* vingeneric.pages */,
+				CEB738282088359D006F5079 /* README.md */,
 				CECB5315208803590016714C /* vingeneric */,
 				CECB5314208803590016714C /* Products */,
 			);
