@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CECB5317208803590016714C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB5316208803590016714C /* main.swift */; };
+		CECB531E20880A340016714C /* vingenere.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECB531D20880A340016714C /* vingenere.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		CECB5313208803590016714C /* vingeneric */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = vingeneric; sourceTree = BUILT_PRODUCTS_DIR; };
 		CECB5316208803590016714C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		CECB531D20880A340016714C /* vingenere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vingenere.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				CECB5316208803590016714C /* main.swift */,
+				CECB531D20880A340016714C /* vingenere.swift */,
 			);
 			path = vingeneric;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CECB5317208803590016714C /* main.swift in Sources */,
+				CECB531E20880A340016714C /* vingenere.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
